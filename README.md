@@ -4,11 +4,11 @@
 
 ![simple calculator](./output/Simple-Calculator-output.png)
 
-### Number Guessing:
+### Number Guessing Output:
 
 ![number guessing](./output/Number-guessing-output.png)
 
-### TODO List
+### TODO List Output:
 
 ![todo list](./output/TODO-List-output.png)
 
